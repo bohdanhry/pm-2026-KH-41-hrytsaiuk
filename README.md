@@ -15,7 +15,7 @@
 | Тема проєкту | Мобільний застосунок розкладу академії зі сповіщеннями про зміни |
 | Варіант вхідних умов | V10 |
 | Трекер | https://github.com/users/bohdanhry/projects/2/views/1 |
-| Дошка | https://github.com/users/bohdanhry/projects/2/views/1 |
+| Дошка | https://github.com/users/bohdanhry/projects/5/views/1 |
 | Валюта проєкту | для кошторису ЛР16 |
 | Contingency, % | від прямих витрат, ЛР16 |
 
