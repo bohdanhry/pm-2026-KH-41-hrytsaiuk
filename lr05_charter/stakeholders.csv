@@ -7,3 +7,9 @@ ST-05,Студенти і старости груп,академія,high,low,su
 ST-06,Викладачі,академія,high,low,neutral,keep_informed,BA
 ST-07,Адміністратор телеграм-каналу з оголошеннями,академія,low,low,neutral,monitor,PM
 ST-08,Служба інформаційної безпеки академії,Академія,high,high,neutral,manage_closely,PM
+ST-09,Спонсор проєкту,академія,high,high,supporter,manage_closely,PM
+ST-10,PM (я),команда проєкту,high,high,supporter,manage_closely,PM
+ST-11,BA (бізнес-аналітик),команда проєкту,high,low,supporter,keep_informed,PM
+ST-12,Dev (розробник),команда проєкту,high,high,supporter,manage_closely,PM
+ST-13,QA (інженер з якості),команда проєкту,high,low,supporter,keep_informed,PM
+ST-14,DevOps (інженер з розгортання),команда проєкту,high,low,supporter,keep_informed,PM
